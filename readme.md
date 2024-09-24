@@ -16,7 +16,8 @@ If you don't have java, see installation steps by scrolling down.
 
 ==Installation Steps==
 1. Install the latest release of CardMatch.
-2. Continue to the users without java.
+2. Unzip the zip file.
+3. Continue to the users without java.
 
 ==For users without Java, or think they do not have Java==
 1. First confirm your java installation by typing the following into cmd prompt, or your terminal if you're on linux.
