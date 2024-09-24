@@ -16,19 +16,13 @@ If you don't have java, see installation steps by scrolling down.
 
 ==Installation Steps==
 1. Install the latest release of CardMatch.
-2. Unzip the zip file.
 3. Continue to the users without java.
 
 ==For users without Java, or think they do not have Java==
 1. First confirm your java installation by typing the following into cmd prompt, or your terminal if you're on linux.
 2. "java -version"
 3. If it displays an output about your java version. You can continue to the running steps.
-4. If not. Open the install folder from the release you downloaded.
-5. Then run the java installer.
-6. Then test your installation by typing the following into cmd prompt: java -version
-7. If it displays your version. You have installed java successfully.
-8. Remove the install folder as it takes up 100+ megabytes of space.
-9. Please continue to the step for users with java.
+4. If not. Go to the website: https://www.oracle.com/java/technologies/downloads/#jdk17-windows and download a java installation.
 
 ==Running the game==
 If you are on windows, run the win.bat file.
